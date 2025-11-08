@@ -1,6 +1,5 @@
 ## ReFundly
-
-**Turn airtime mistakes into money.**
+**What is ReFundly?**
 
 ReFundly is a simple platform that helps people resell airtime they mistakenly over-recharged. It's easy to type an extra zero and load ₦30,000 when you meant ₦3,000. Once the airtime enters your SIM, there is usually no refund and you’re stuck. 
 
