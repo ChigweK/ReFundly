@@ -35,13 +35,13 @@ Mistaken airtime recharge is common, but there’s no trusted place to exchange 
 4. Buyer pays through the app.
 5. Seller transfers airtime.
 6. Payment is released to seller’s wallet.
+   
+![1000113503](https://github.com/user-attachments/assets/eb46866d-778e-4a58-b73d-f8f16427b3c8)
 
 ## Technicalities involved 
 - Mobile App or Web App
 - Payment Gateway Integration
 - Telecom API Verification
-
-![1000113503](https://github.com/user-attachments/assets/eb46866d-778e-4a58-b73d-f8f16427b3c8)
 
 ## Monetisation
 ReFundly earns a small commission per airtime sale or conversion.
