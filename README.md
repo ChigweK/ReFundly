@@ -8,6 +8,8 @@ People end up begging others to “buy airtime from them” on WhatsApp or Teleg
 
 ReFundly fixes this by providing a safe and fast way to resell extra airtime or buy airtime at a discount.
 
+![1000113484](https://github.com/user-attachments/assets/7460ba73-6d87-470e-a3e8-722fb13e3f1d)
+
 ## Why ReFundly Matters
 Mistaken airtime recharge is common, but there’s no trusted place to exchange it. ReFundly turns a painful mistake into something you can recover quickly.
 
@@ -38,6 +40,8 @@ Mistaken airtime recharge is common, but there’s no trusted place to exchange 
 - Mobile App or Web App
 - Payment Gateway Integration
 - Telecom API Verification
+
+![1000113503](https://github.com/user-attachments/assets/eb46866d-778e-4a58-b73d-f8f16427b3c8)
 
 ## Monetisation
 ReFundly earns a small commission per airtime sale or conversion.
