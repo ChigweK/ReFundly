@@ -22,17 +22,8 @@ ReFundly is a peer-to-peer airtime exchange platform that helps users resell mis
 
 ## Architecture Diagram
 
-User (Mobile App)
-      ↓
-Frontend (Flutter)
-      ↓
-Backend API (Node.js/Express)
-      ↓
-Database (PostgreSQL)
-      ↓
-Payment Gateway + Telecom Verification API
+![1000113505](https://github.com/user-attachments/assets/6633829e-602a-4bc5-bf60-61b0fb5af0cb)
 
----
 
 ## Why This Is Feasible
 People already sell airtime informally. ReFundly simply organizes, verifies, and secures the process. Using Flutter allows quick mobile deployment and PostgreSQL ensures safe structured data storage. Wallet + escrow prevents fraud.
